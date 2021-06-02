@@ -1,0 +1,17 @@
+
+
+References
+
+https://stackoverflow.com/questions/35698645/how-to-create-custom-panel-layout-with-swing
+
+https://dev.to/cosmicity/how-to-import-gson-library-into-eclipse-20og
+
+https://www.javainterviewpoint.com/rsa-encryption-and-decryption/
+
+https://stackoverflow.com/a/9755391
+
+https://stackoverflow.com/a/30591920
+
+https://gist.github.com/sharecode126/33c0cb7cdd4e3185bc0715cff0517ba8
+
+https://www.tutorialspoint.com/how-can-we-detect-the-double-click-events-of-a-jtable-row-in-java

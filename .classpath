@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/beeba/eclipse-workspace/Bedirhan_Bardakci_20150702053_CSE471_TermProject.zip_expanded/KetchApp/resources/libraries/gson-2.8.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

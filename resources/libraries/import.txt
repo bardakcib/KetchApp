@@ -1,0 +1,3 @@
+Right click your package in package explorer > Build path > Add Libraries. Select User libraries and then press next, now just tick “gson_lib” and click finish.
+
+Import it with import com.google.gson.*;
