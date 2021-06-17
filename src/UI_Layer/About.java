@@ -41,7 +41,7 @@ public class About {
 
 		panel.setPreferredSize(new Dimension(700, 600));
 
-		String messege = "Welcome to Ketch App\n\nCreated by Bedirhan Bardakci (20150702053)";
+		String messege = "Welcome to Ketch App\n\nCreated by Bedirhan Bardakci";
 		try {
 			messege = messege + "\n" + new String(Files.readAllBytes(Paths.get("resources\\references.txt")));
 		} catch (IOException e) {
