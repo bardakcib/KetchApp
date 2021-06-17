@@ -25,4 +25,4 @@
 
 ![](https://github.com/bardakcib/KetchApp/blob/main/resources/chat.png)
 
-![](https://github.com/bardakcib/KetchApp/blob/main/resources/about.png)
+![](https://github.com/bardakcib/KetchApp/blob/main/resources/about2.png)
